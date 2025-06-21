@@ -1,5 +1,5 @@
 # Item Management MERN Stack Project
-![App Preview](assets/preview.png)
+![App Preview](frontend/src/assets/preview.png)
 ## Overview
 This project is a full-stack application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). It allows users to:
 
