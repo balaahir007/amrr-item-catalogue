@@ -35,11 +35,11 @@ npm install
 
 **Backend (.env):**
 
-```
 MONGO_URI=<your-mongodb-uri> 
 PORT=5000
 EMAIL_USER=<your-email@example.com>
 EMAIL_PASS=<your-app-password>
+```
 
 🔐 How to Generate EMAIL_PASS (Gmail App Password)
 
