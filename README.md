@@ -55,9 +55,9 @@ If you are using Gmail, you cannot use your regular Gmail password for sending e
 
 **Frontend (.env):**
 
-```
 VITE_CLOUD_NAME=dtliktnul
 VITE_CLOUD_PRESET=amrr_items_preset
+```
 ```
 
 ### Run the App
